@@ -7711,11 +7711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\CosmeticShop\\CosmeticShop\\CosmeticShop\\CosmeticShop.csproj",
-      "projectName": "CosmeticShop",
-      "projectPath": "D:\\GitHub\\CosmeticShop\\CosmeticShop\\CosmeticShop\\CosmeticShop.csproj",
+      "projectUniqueName": "D:\\GitHub\\FoodDelivey\\CosmeticShop\\CosmeticShop\\FoodDelivery.csproj",
+      "projectName": "FoodDelivery",
+      "projectPath": "D:\\GitHub\\FoodDelivey\\CosmeticShop\\CosmeticShop\\FoodDelivery.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\CosmeticShop\\CosmeticShop\\CosmeticShop\\obj\\",
+      "outputPath": "D:\\GitHub\\FoodDelivey\\CosmeticShop\\CosmeticShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

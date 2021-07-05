@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XD2AqzkNXuxjph3ldIT4sri9g4L5L4LgB7X2ztJvXEQX961V3t4jatCNOwB3vBkkfMkjAI+1OV7eVi6p09AL6g==",
+  "dgSpecHash": "u+sGzHN25712XvAOqn6jFALsYlCOCEYALKqcTXbKhOJ382SZzL/Ky363CyzeSZUpBhzusKFqYqH5IjYR8JIVmw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\CosmeticShop\\CosmeticShop\\CosmeticShop\\CosmeticShop.csproj",
+  "projectFilePath": "D:\\GitHub\\FoodDelivey\\CosmeticShop\\CosmeticShop\\FoodDelivery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mailkit\\2.11.1\\mailkit.2.11.1.nupkg.sha512",
